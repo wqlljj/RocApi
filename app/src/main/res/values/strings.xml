@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RocDemo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="bts">
+        <item >激活</item>
+        <item >连接PushServer</item>
+        <item >断开PushServer</item>
+        <item >设备下线</item>
+        <item >上报属性</item>
+        <item >上报升级</item>
+        <item >上报异常</item>
+        <item >开启心跳</item>
+        <item >上报配置</item>
+        <item >上报监控</item>
+        <item >模拟Roc推送心跳</item>
+    </array>
+</resources>
